@@ -1,2 +1,10 @@
-# Online-Shopping-System
- Online Shopping Ecommerce Website in PHP
+# online-shopping-with-advanced-admin-page
+Updated version
+
+
+online shopping system with both admin and user layouts.
+
+admin login details 
+
+Email:  admin@gmail.com 
+Password:   123456789
