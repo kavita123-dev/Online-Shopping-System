@@ -2,7 +2,7 @@
 Updated version
 
 
-online shopping system with both admin and user layouts.
+Online Shopping Ecommerce Website IN PHP with both admin and user layouts.
 
 admin login details 
 
