@@ -5,7 +5,7 @@ Updated version
 Online Shopping Ecommerce Website In PHP with 
 - Admin Panel 
 - user layouts and
-- Stripe Payment Getway 
+- Stripe Payment Getway Integration
 
 admin login details 
 
